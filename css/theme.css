@@ -55,6 +55,9 @@
 .text-gray {
   color: #333;
 }
+.text-deep-red {
+  color: #DF1F00 !important;
+}
 .standard-radius {
   border-radius: 25px;
 }
